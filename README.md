@@ -61,26 +61,3 @@ If duplicates are not handled properly, the final score calculation becomes inco
 ```bash
 javac QuizApp.java
 java QuizApp
-
-
----
-
-#  Why This Version Works Better
-
-- Sounds **authentic and technical**, not robotic  
-- Explains **your thinking**, not just steps  
-- Highlights **real challenges** (this matters a LOT in evaluation)  
-- Clean structure → easy to skim  
-
----
-
-#  Optional Upgrade (If You Want Extra Edge)
-
-Add this section at the end:
-
-```md
-## Possible Improvements
-
-- Add logging for better debugging and traceability
-- Use a proper JSON parsing library in production environments
-- Convert this into a scalable service using Spring Boot
